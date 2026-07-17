@@ -19,4 +19,4 @@
 ![AWS EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Currently Working On :** 🏃‍♀️ [https://github.com/kittyjoa/duroorun]
+**Currently Working On :** 🏃‍♀️ *두루런*&nbsp;&nbsp;[https://github.com/kittyjoa/duroorun]
