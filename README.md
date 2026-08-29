@@ -18,5 +18,5 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **IN PROGRESS:** 🏃‍♀️ [*두루런*](https://github.com/kittyjoa/duroorun)    
-ㅡ 2026 관광데이터 활용 공모전 참가중
+ㅡ 2026 관광데이터 활용 공모전 참가중    
 ㅡ 강원도 러닝 플랫폼
