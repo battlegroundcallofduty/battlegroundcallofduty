@@ -17,4 +17,6 @@
 ![AWS EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**IN PROGRESS:** 🏃‍♀️ [*두루런*](https://github.com/kittyjoa/duroorun)
+**IN PROGRESS:** 🏃‍♀️ [*두루런*](https://github.com/kittyjoa/duroorun)    
+ㅡ 2026 관광콘텐츠 공모전 참가중 (9월 마감)    
+ㅡ 강원도 러닝 플랫폼
